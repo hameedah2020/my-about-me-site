@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+#login{
+ 
+  
+  background-color:rgba(240,240,240,255);
+  margin: auto;
+  width: 40%;
+  padding: 20px 10px 40px 10px;
+ box-shadow: 5px 5px 5px 5px grey;
+  border-radius:25px;
+  margin-top: 5%;
+  margin-bottom: 40px;
+  
+  
+}
+.loginp{
+  border-radius:30px;
+  width: 90%;
+  padding: 10px;
+  display:block;
+  margin-top: 10px;
+  border: none;
+  box-shadow: 2px 5px 5px 5px #686a82;
+  outline: none;
+  
+  
+  
+}
+
+.log-btn{
+  background-color:#273032;
+  color: whitesmoke;
+  width: 120px;
+  padding:  10px;
+  margin-top: 3%;
+  padding-left: 7px;
+  border-radius: 20px;
+  font-family: 'Oswald', sans-serif;
+  cursor: pointer;
+  margin-left:10px;
+}
+.log-btn:hover{
+  background-color:#6b7d80
+}
+.log-label{
+  padding: 7px;
+  font-family: 'Oswald', sans-serif;
+}
+#reg-link{
+  display: block;
+  font-family: 'Oswald', sans-serif;
+}
+#reg-link a {
+  text-decoration:none;
+}
+.log-mesg{
+  
+   font-family: 'Oswald', sans-serif;
+  font-size:30px;
+  color:#121111;
+  padding-top:0;
+  margin-left: 5px;
+  
+}
+#contact{
+   background-color:rgba(240,240,240,255);
+  margin: auto;
+  width: 40%;
+  padding: 1px 10px 40px 10px;
+ box-shadow: 5px 5px 5px 5px grey;
+  border-radius:25px;
+  margin-top: 5%;
+  margin-bottom:50px;
+  
+}
+.contact-inp{
+  border-radius:30px;
+  width: 90%;
+  padding: 10px;
+  display:block;
+  margin-top: 10px;
+  border: none;
+  box-shadow: 2px 5px 5px 5px #686a82;
+}
+.contact-lbl{
+   padding: 7px;
+  font-family: 'Oswald', sans-serif;
+}
+#textarea{
+  display:block;
+  margin-top:5%;
+  padding: 10px;
+  outline:none;
+  width:90%
+}
+#register{
+  width: 40%;
+   background-color:rgba(240,240,240,255);
+  margin: auto;
+  margin-top:3%;
+  box-shadow: 5px 5px 5px 2px grey;
+  border-radius:25px;
+  padding-bottom:10px;
+  margin-bottom: 30px;
+ ;
+  
+}
+.reg-inp{/*border-radius:30px;*/
+  
+  padding: 10px;
+  
+  margin-top: 10px;
+  border: none;
+  box-shadow: 2px 2px 5px 2px #686a82;
+  outline: none;
+    margin-left:20px;
+  width: 80%;
+  
+  
+}
+
+
+.side-inp{
+   width: 95%;
+
+  margin-top:10px;
+  
+}
+.reg-lbl{
+   padding: 7px;
+  font-family: 'Oswald', sans-serif;
+  display:block;
+  margin-left:10px;
+}
+/** #phone
+{ width: 30%;
+  display:inline;
+  margin-top:10px;
+
+#gender{
+   width: 30%;
+  display:inline;
+  margin-top:10px;
+  
+}
+#country**/
+#lname{
+
+  margin-left:20px;
+   
+  
+}
+#gender{
+  font-family: 'Oswald', sans-serif;
+    margin-left:20px;
+
+}
+
+#reg{
+  margin-bottom:-10px;
+  margin-left:10px;
+}
+.fa {
+  padding: 5px;
+  font-size: 10px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 0.5px;
+}
+
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+
+.fa-twitter {
+  background: #273032;;
+  color: white;
+}
+
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+  background-color:#273032;
+}
